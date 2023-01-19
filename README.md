@@ -6,6 +6,8 @@ Software Developer
 
 * 🌍  I'm based in Yerevan, Armenia
 * ✉️  You can contact me at [ggbagunc@gmail.com](mailto:ggbagunc@gmail.com)
+* 🤝  I'm open to collaborating on Web and Mobile projects.
+* ⚡  I am a Front-End Developer with more than 2 years of experience. I am willing to become part of a friendly and professional team, where I can further develop and enhance my skills in JavaScript, TypeScript, React.js and Next.js in order to reach team goals. I'll be happy to offer suggestions.
 
 ### Skills
 
